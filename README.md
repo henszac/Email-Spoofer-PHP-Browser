@@ -16,6 +16,10 @@ Email Spoofer is a tool for social engineering attacks.
 + Light.
 + Easy to use.
 
+ ## Demo video 🎬
+
+ + https://www.youtube.com/watch?v=NHmRxPkcp-s
+
 ## Demo application 🌐
 
 + https://henszac.com/email.html (Lastest version v1.0).
