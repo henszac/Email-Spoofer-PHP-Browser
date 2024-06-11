@@ -16,10 +16,6 @@ Email Spoofer is a tool for social engineering attacks.
 + Light.
 + Easy to use.
 
- ## Demo video 🎬
-
- + https://www.youtube.com/watch?v=NHmRxPkcp-s
-
 ## Demo application 🌐
 
 + https://henszac.com/email.html (Lastest version v1.0).
@@ -29,6 +25,12 @@ Email Spoofer is a tool for social engineering attacks.
  ## Buy the source code 💻
 
 If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in PHP and includes information on how to configure it and how to configure the API of the email provider.
+
+Contact: **https://t.me/henszac** or **contact@henszac.com**
+
+ ## Buy a pincode 🔑 (spoofing service)
+ 
+If you are interested in using the application already ready for use, you can buy a pincode to use unlimitedly for half a year or a year.
 
 Contact: **https://t.me/henszac** or **contact@henszac.com**
 
